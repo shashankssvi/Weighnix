@@ -1,6 +1,6 @@
 # weighnix
 
-A LPG gas sensing APP
+A new Flutter project.
 
 ## Getting Started
 

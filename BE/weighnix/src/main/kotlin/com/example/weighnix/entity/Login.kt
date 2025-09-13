@@ -22,7 +22,7 @@ import jakarta.persistence.Table
 data class Login(
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    val id:Int,
+    val id:Int = 0,
 
     @Column(name = "name")
     val name:String,
